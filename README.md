@@ -4,7 +4,7 @@ Purpose:
 This script simulates a traveling network model. 
 
 How to run the project:
-This script runs in the MATLAB numeric computing environment (MathWorks)
+This script runs in the MATLAB numeric computing environment (MathWorks, e.g. MATLAB R2023a). With default parameters and display, the base simulation runs for 1.3 minutes. This simulation does not require additional data to run. 
 
 Code author:
 Nate Cira
